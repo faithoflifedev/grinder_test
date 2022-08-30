@@ -1,20 +1,4 @@
-## 1.0.0
+## 1.0.0+1
 
-	* test change
-
-## 1.0.0
-
-	* test change
-
-## 1.0.0
-
-	* test change
-
-## 1.0.0
-
-	* test change
-
-## 1.0.0
-
-	* test change
+no real change
 

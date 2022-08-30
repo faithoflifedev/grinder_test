@@ -10,5 +10,5 @@ main(args) async {
 @DefaultTask('Just keeping it real')
 @Depends('gp-commit')
 build() {
-  // log('building...');
+  log('building...');
 }

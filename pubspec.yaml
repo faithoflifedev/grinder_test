@@ -1,7 +1,9 @@
 name: grinder_test
 description: A sample command-line application.
-version: 1.0.0
+version: 1.0.0+1
 # homepage: https://www.example.com
+
+# grinder_plus: tool/grinder_plus.yaml
 
 environment:
   sdk: ">=2.17.7 <3.0.0"
@@ -12,7 +14,6 @@ environment:
 dev_dependencies:
   grinder: ^0.9.2
   lints: ^2.0.0
-  test: ^1.16.0
 
   grinder_plus:
     path: ../../skc/grinder_plus
