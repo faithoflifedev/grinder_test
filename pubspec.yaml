@@ -1,7 +1,7 @@
 name: grinder_test
 description: A sample command-line application.
-version: 1.0.0+3
-# homepage: https://www.example.com
+version: 1.0.0+4
+homepage: https://github.com/faithoflifedev/grinder_test
 
 # grinder_plus: tool/grinder_plus.yaml
 

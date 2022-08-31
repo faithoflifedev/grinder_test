@@ -1,5 +1,5 @@
-import 'package:grinder_test/grinder_test.dart' as grinder_test;
+import 'package:grinder_test/meta.dart';
 
 void main(List<String> arguments) {
-  print('Hello world: ${grinder_test.calculate()}!');
+  print('${pubSpec['name']} v${pubSpec['version']}');
 }

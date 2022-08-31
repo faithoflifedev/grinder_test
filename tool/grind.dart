@@ -8,7 +8,7 @@ main(args) async {
 }
 
 @DefaultTask('Just keeping it real')
-@Depends('gp-commit')
+@Depends('gp-homebrew')
 build() {
   log('building...');
 }
